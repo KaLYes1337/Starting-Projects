@@ -12,6 +12,7 @@ This repository serves multiple purposes:
 - **Simple Calculator** (If Statements)
 - **Moving Zeros to the End** – This program takes a list of numbers and moves all zeros to the end of the list without changing the order of non-zero elements.
 - **Validate Username** - This program checks the validity of a username based on specific requirements.
+- **Validate Username** - Menu Ordering System – A Python program that displays a menu, allows users to select items, and calculates the total price. Users can add items until typing "exit" and then receive a summary of their order and the total cost.
 - **[Rock Paper Scissors Game](https://github.com/KaLYes1337/RPS)** – This project is a simple implementation of the classic game where the user plays against the computer. The program uses random selection for the computer's choice and conditional statements to determine the winner. 
 - **[Quiz Game](https://github.com/KaLYes1337/Quizgame)** – This project is a multiple-choice quiz game that tests the user’s knowledge on various topics. The game presents questions, takes the user's answers, and provides feedback on their score at the end. This project helps in understanding how to work with lists, loops, and conditional logic in Python.
 
